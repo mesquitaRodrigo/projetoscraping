@@ -1,4 +1,4 @@
-# projetoscrapingaovivo
+# projetoscraping
 
 Para rodar o web scraping
 
